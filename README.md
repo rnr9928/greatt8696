@@ -1,3 +1,7 @@
+<h1>티스토리:https://rnr99281.tistory.com/</h1>
+<h1>노션:https://www.notion.so/971f589e18ee47168fa522fcf9db5132</h1>
+
+
 <div align='center'>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnr9928&show_icons=true&theme=github_dark)
