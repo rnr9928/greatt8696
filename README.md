@@ -4,10 +4,6 @@
 
 <div align='center'>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnr9928&show_icons=true&theme=github_dark)
-<p></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnr9928&layout=compact&theme=github_dark)
 
 <!-- #
 <h3>👨‍💻 Me 👨‍💻</h3>
